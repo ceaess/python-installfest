@@ -24,3 +24,7 @@ Type this command into your console:
 Use this command in your console:
 
     sudo yum install python3.4
+
+## Step 3: Check for Python Again
+
+Repeat Step 1 to make sure that Python is now installed.

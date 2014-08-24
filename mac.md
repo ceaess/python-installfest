@@ -8,7 +8,7 @@ You need to go to the website https://www.python.org/downloads/release/python-34
 * double click to open it,
 * double click *Python.mpkg* to run the installer.
 
-## Step 2: Verify
+## Step 2: Check That Python Is Installed
 
 Verify the installation was successful by opening the *Terminal* application and running the `python3` command:
 
