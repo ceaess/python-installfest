@@ -2,7 +2,7 @@
 
 What's your operating system?
 
-![Mac](/img/macface.png "Mac")
+![Mac](/img/macface.jpg "Mac")
 
 ![Windows](/img/windows.png "Windows")
 
