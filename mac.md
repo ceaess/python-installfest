@@ -13,4 +13,4 @@ You need to go to the website https://www.python.org/downloads/release/python-34
 Verify the installation was successful by opening the *Terminal* application and running the `python3` command:
 
     $ python3 --version
-    Python 3.4.1
+    Python 3.5.0
