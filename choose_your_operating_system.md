@@ -2,7 +2,7 @@
 
 What's your operating system?
 
-![installing_python/mac](/img/macface.jpg)
+[![Mac](/img/macface.jpg)](installing_python/mac)
 
 ![Windows](/img/windows.png)
 
