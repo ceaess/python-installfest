@@ -5,7 +5,7 @@
 It is very likely that you already have Python installed out of the box. To check if you have it installed (and which version it is), open a console and type the following command:
 
     $ python3 --version
-    Python 3.4.1
+    Python 3.5.0
 
 If you see the above, you can skip step 2.
 
@@ -17,13 +17,13 @@ If you don't have Python installed or if you want a different version, you can i
 
 Type this command into your console:
 
-    sudo apt-get install python3.4
+    sudo apt-get install python3.5
 
 #### Fedora
 
 Use this command in your console:
 
-    sudo yum install python3.4
+    sudo yum install python3.5
 
 ## Step 3: Check for Python Again
 
