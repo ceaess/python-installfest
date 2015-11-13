@@ -4,6 +4,6 @@ What's your operating system?
 
 [![Mac](/img/macface.jpg)](/mac.html)
 
-![Windows](/img/windows.png)
+[![Windows](/img/windows.png)](windows.html)
 
-![Linux](/img/tux-trans.png)
+[![Linux](/img/tux-trans.png)](linux.html)
