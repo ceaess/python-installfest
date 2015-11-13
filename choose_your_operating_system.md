@@ -2,8 +2,8 @@
 
 What's your operating system?
 
-![Mac](/img/macface.jpg "Mac")
+![Mac](/img/macface.jpg)
 
-![Windows](/img/windows.png "Windows")
+![Windows](/img/windows.png)
 
-![Linux](/img/tux-trans.png "Linux")
+![Linux](/img/tux-trans.png)
