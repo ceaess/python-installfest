@@ -1,6 +1,6 @@
 # Choose Your Operating System
 
-What's your operating system?
+What's your operating system? (click the image)
 
 [![Mac](/img/macface.jpg)](/mac.html)
 
