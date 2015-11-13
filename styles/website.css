@@ -1,2 +1,2 @@
 /* CSS for website */
-img[alt=Mac] { width: 200px; }
+img[alt=Mac], img[alt=Windows], img[alt=Linux] { width: 200px; }
