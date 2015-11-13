@@ -2,7 +2,7 @@
 
 What's your operating system?
 
-[![Mac](/img/macface.jpg =50x)](/mac.html)
+[![Mac](/img/macface.jpg)](/mac.html)
 
 [![Windows](/img/windows.png)](windows.html)
 
